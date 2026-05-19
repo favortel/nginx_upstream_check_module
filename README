@@ -1,4 +1,4 @@
 fork from: https://github.com/yaoweibin/nginx_upstream_check_module
 
 1. fix TCP keepalive mode bugs
-2. add 1.30.0+patch
+2. add 1.30.0+patch,thanks mofantor: https://github.com/mofantor/nginx_upstream_check_module
